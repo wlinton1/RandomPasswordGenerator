@@ -1,0 +1,12 @@
+.container{
+  text-align: center;
+}
+
+header{
+  margin-bottom: 20px;
+}
+
+button{
+  margin-bottom: 20px;
+  background-color: red;
+}
