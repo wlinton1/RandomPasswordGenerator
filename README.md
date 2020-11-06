@@ -10,3 +10,6 @@ also added background color to the button
 
 The generator does everything that it is supposed to.
 
+https://wlinton1.github.io/RandomPasswordGenerator/
+
+https://gyazo.com/257c09b5021b8cda0ad77d0b62539b62
