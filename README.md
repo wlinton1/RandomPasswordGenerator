@@ -8,8 +8,10 @@ applied some margin with css to make it look cleaner
 
 also added background color to the button
 
-The generator does everything that it is supposed to.
+The password generator lets you choose to use special characters, numbers, upper and lowercase letters. The password can be anywhere from 8 to 128 characters in length.
 
 https://wlinton1.github.io/RandomPasswordGenerator/
 
 https://gyazo.com/257c09b5021b8cda0ad77d0b62539b62
+
+I used javascript, html, slight css.
